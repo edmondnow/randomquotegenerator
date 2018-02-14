@@ -1,0 +1,55 @@
+.jumbotron {
+  background-color:white;
+  width: 650px;
+  height: auto;
+  margin: 100px auto 0px auto;
+
+}
+
+#quote-content, #quote-title{
+  color: #86af49;
+  font-family: 'Arvo', serif !important;
+
+}
+
+body {
+  background-color: #86af49;
+}
+
+.btn { background-color: #86af49;
+ color: white;
+  
+}
+#quote-title {
+  font-size: 18px !important;
+}
+
+#quote-content {
+  font-size: 28px !important;
+}
+
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: white;
+  text-decoration: none;
+}
+
+
